@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-// Classe base Pessoa
 class Pessoa {
 protected:
     string nome;
